@@ -1,6 +1,4 @@
-Hello and welcome to my GitHub profile! I am an Aerospace Engineer with a passion for designing and building things. After two years of studying Mechanical Engineering, I decided to switch to Aerospace because I wanted to work on more exciting projects. In addition to my academic pursuits, I am also an avid maker and have built my own 3D printer and a 6-axis robotic arm that drives around on a chassis.
-
-I have used GitHub extensively for personal, extracurricular, and class revision history and distribution management, including for my Technical Communication class where I used LaTeX to create my resume. Although I have not used Markdown before, I am eager to learn more about it and continue to level up my coding abilities. In my free time, I enjoy playing around with various Linux distros like Ubuntu, Raspian, PopOs, Kali, and Arch for personal projects.
+Highly motivated soon to be new graduate with over 5 years of experience in team-based product design and fabrication. Demonstrated leadership skills in both small and large teams. Continuous learner having a multidisciplinary background with expertise in CAD, programming, and microprocessors. Consistently recognized as a top performer, consistently achieving exceptional results in all projects.
 
 <!--
 **j1data/j1data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
